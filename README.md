@@ -1,4 +1,0 @@
-Create a class called “PhoneBook” that has fields name (String) and phoneNumber (int).
-Define a constructor and toString() methods.
-Implement a driver program that creates at least 5 PhoneBook objects and store them in an ArrayList.
-The duplicate names (if any) in the ArrayList should be deleted, and the PhoneBook objects must be displayed
